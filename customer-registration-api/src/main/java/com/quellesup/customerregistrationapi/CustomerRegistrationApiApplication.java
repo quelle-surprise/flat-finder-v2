@@ -1,13 +1,13 @@
-package com.quellesup.flatfinder;
+package com.quellesup.customerregistrationapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FlatFinderApplication {
+public class CustomerRegistrationApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FlatFinderApplication.class, args);
+        SpringApplication.run(CustomerRegistrationApiApplication.class, args);
     }
 
 }
